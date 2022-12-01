@@ -5,7 +5,8 @@ body:
   - type: textarea
     id: dependency-explanation
     attributes:
-      label: 'Add Dependencies (ideally by issue #)'
+      label: Dependencies
+      placeholder: 'Add Dependencies (ideally by issue #). Please use a task list in the textarea editor to list all the dependencies.'
       value: '- [ ]'
     validations:
       required: true
