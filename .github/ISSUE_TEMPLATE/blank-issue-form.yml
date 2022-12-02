@@ -5,7 +5,7 @@ body:
   - type: textarea
     id: dependency-explanation
     attributes:
-      label: Dependencies
+      label: Dependency
       description: 'Add dependencies (ideally by issue #)'
       value: '- [ ]'
     validations:
