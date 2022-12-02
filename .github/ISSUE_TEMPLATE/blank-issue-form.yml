@@ -6,7 +6,7 @@ body:
     id: dependency-explanation
     attributes:
       label: Dependencies
-      placeholder: 'Add dependencies (ideally by issue #) using a task list (- [ ]) here.'
+      description: 'Add dependencies (ideally by issue #) using a task list (- [ ]) here.'
     validations:
       required: true
   - type: input
